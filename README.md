@@ -2,7 +2,7 @@
 Objects, Methods &amp; Dot Notation in JavaScript Objects hold properties (data) and methods (functions).  Properties are accessed with object.property.  Methods are called with object.method().  Constructor functions act as blueprints to create multiple objects with shared properties and methods.
 # 🟡 Objects, Methods & Dot Notation in JavaScript
 
-## 📌 Overview
+##  Overview
 In JavaScript, **objects** are containers for data (**properties**) and actions (**methods**).  
 - **Property** → `object.property`  
 - **Method** → `object.method()`  
@@ -12,7 +12,7 @@ Dot notation makes it easy to access both.
 
 ---
 
-## 🚀 Example: HouseKeeper Constructor
+Example: HouseKeeper Constructor
 
 ```javascript
 // Constructor Function (Blueprint)
